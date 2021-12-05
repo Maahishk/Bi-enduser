@@ -1,0 +1,412 @@
+{
+  "activeschools": [
+    {
+      "id": 1,
+      "active_school_name": "Adhyanyan School",
+      "total_students": 2,
+      "unique_logins": 2,
+      "total_ebooks": 0,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 1,
+      "unique_video_completed": 1,
+      "teacher_count": 2
+    },
+    {
+      "id": 2,
+      "active_school_name": "Ankuram Academy",
+      "total_students": 2,
+      "unique_logins": 2,
+      "total_ebooks": 0,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 1,
+      "unique_video_completed": 1,
+      "teacher_count": 1
+    },
+    {
+      "id": 3,
+      "active_school_name": "Aroma Higher Secondary School",
+      "total_students": 2,
+      "unique_logins": 2,
+      "total_ebooks": 0,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 1,
+      "unique_video_completed": 1,
+      "teacher_count": 3
+    },
+    {
+      "id": 4,
+      "active_school_name": "Array International School",
+      "total_students": 2,
+      "unique_logins": 2,
+      "total_ebooks": 0,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 1,
+      "unique_video_completed": 1,
+      "teacher_count": 3
+    },
+    {
+      "id": 5,
+      "active_school_name": "Ashirvad Boarding School",
+      "total_students": 2,
+      "unique_logins": 2,
+      "total_ebooks": 0,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 1,
+      "unique_video_completed": 1,
+      "teacher_count": 3
+    }
+  ],
+  "activesubjects": [
+    {
+      "id": 1,
+      "active_subject_name": "Test Subject",
+      "total_students": 25897,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 0,
+      "average_mastery": "0.00%"
+    },
+    {
+      "id": 2,
+      "active_subject_name": "Science",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 3,
+      "active_subject_name": "Maths",
+      "total_students": 25997,
+      "total_incomplete_videos": 5321,
+      "total_videos_completed": 1243,
+      "average_mastery": "19.49%"
+    },
+    {
+      "id": 4,
+      "active_subject_name": "English",
+      "total_students": 26017,
+      "total_incomplete_videos": 5860,
+      "total_videos_completed": 2112,
+      "average_mastery": "60.15%"
+    },
+    {
+      "id": 5,
+      "active_subject_name": "Economics",
+      "total_students": 25974,
+      "total_incomplete_videos": 1419,
+      "total_videos_completed": 504,
+      "average_mastery": "32.10%"
+    }
+  ],
+  "leastactivestudents": [
+    {
+      "id": 1,
+      "student_name": "Bipin Basnet",
+      "masterycompletioncount": 1
+    },
+    {
+      "id": 2,
+      "student_name": "Prajwal Sapkota",
+      "masterycompletioncount": 1
+    },
+    {
+      "id": 3,
+      "student_name": "Rupesh Dahal",
+      "masterycompletioncount": 1
+    },
+    {
+      "id": 4,
+      "student_name": "Krishna Prasad Chapagain",
+      "masterycompletioncount": 1
+    },
+    {
+      "id": 5,
+      "student_name": "Abishek ",
+      "masterycompletioncount": 1
+    }
+  ],
+  "mostactivestudents": [
+    {
+      "id": 1,
+      "student_name": "bipinpandey3333@gmail.com",
+      "masterycompletioncount": 226
+    },
+    {
+      "id": 2,
+      "student_name": "biplab_student",
+      "masterycompletioncount": 139
+    },
+    {
+      "id": 3,
+      "student_name": "ishukg@gmail.com",
+      "masterycompletioncount": 133
+    },
+    {
+      "id": 4,
+      "student_name": "Prakash Basnet",
+      "masterycompletioncount": 130
+    },
+    {
+      "id": 5,
+      "student_name": "Sushma KC",
+      "masterycompletioncount": 117
+    }
+  ],
+  "mostcreditadded": [
+    {
+      "id": 1,
+      "student_name": "Sula budhathoki",
+      "credit_added": 682
+    },
+    {
+      "id": 2,
+      "student_name": "Rohit Shrestha",
+      "credit_added": 300
+    },
+    {
+      "id": 3,
+      "student_name": "Anmol",
+      "credit_added": 300
+    },
+    {
+      "id": 4,
+      "student_name": "Roshan Shrestha",
+      "credit_added": 32
+    },
+    {
+      "id": 5,
+      "student_name": "Manaswi Kharel",
+      "credit_added": 30
+    }
+  ],
+  "mostcreditexpended": [
+    {
+      "id": 1,
+      "student_name": "Ashish Shrestha",
+      "credit_added": -20
+    },
+    {
+      "id": 2,
+      "student_name": "manaswi Kharel",
+      "credit_added": -10
+    },
+    {
+      "id": 3,
+      "student_name": "Aditi Koirala",
+      "credit_added": -3
+    },
+    {
+      "id": 4,
+      "student_name": "Deepak Sutihar",
+      "credit_added": -2
+    },
+    {
+      "id": 5,
+      "student_name": "Sandesh Joshi",
+      "credit_added": -1
+    }
+  ],
+  "khaltitransaction": [
+    {
+      "id": 1,
+      "student_name": "Anmol Chalise User1",
+      "amount": 1870,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    },
+    {
+      "id": 2,
+      "student_name": "Anmol Chalise User1",
+      "amount": 2450,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    },
+    {
+      "id": 3,
+      "student_name": "Anmol Chalise User1",
+      "amount": 2224,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    },
+    {
+      "id": 4,
+      "student_name": "Anmol Chalise User1",
+      "amount": 1870,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    },
+    {
+      "id": 5,
+      "student_name": "Anmol Chalise User1",
+      "amount": 10,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    },
+    {
+      "id": 6,
+      "student_name": "Anmol Chalise User1",
+      "amount": 10,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    },
+    {
+      "id": 7,
+      "student_name": "Anmol Chalise User1",
+      "amount": 15,
+      "transaction_date": "2021-05-26 14:28:52",
+      "details": "Purchased: SEE Revision Package"
+    }
+  ],
+  "adhyayanschoolsubjects": [
+    {
+      "id": 1,
+      "active_subject_name": "Science",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 2,
+      "active_subject_name": "Maths",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 3,
+      "active_subject_name": "English",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 4,
+      "active_subject_name": "Economics",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    }
+  ],
+  "adhyayanschoolclasses": [
+    {
+      "id": 1,
+      "active_class_name": "Grade_10_Science",
+      "subject_name": "Science",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 2,
+      "active_class_name": "Grade_10_Maths",
+      "subject_name": "Maths",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 3,
+      "active_class_name": "Grade_10_English",
+      "subject_name": "English",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    },
+    {
+      "id": 4,
+      "active_class_name": "Grade_10_Economics",
+      "subject_name": "Economics",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    }
+  ],
+  "scienceclasses": [
+    {
+      "id": 1,
+      "active_class_name": "Grade_10_Science",
+      "total_students": 25972,
+      "total_incomplete_videos": 6713,
+      "total_videos_completed": 2612,
+      "average_mastery": "36.97%"
+    }
+  ],
+  "classstudent": [
+    {
+      "id": 0,
+      "student_name": "sandeep.sharma",
+      "student_email": "sandeep.sarmastudent@nmst.np",
+      "total_login": 6,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 0,
+      "average_mastery": "0%"
+    },
+    {
+      "id": 1,
+      "student_name": "surya neupane",
+      "student_email": "surya.neupanestudent@nmst.np",
+      "total_login": 1,
+      "total_incomplete_videos": 0,
+      "total_videos_completed": 0,
+      "average_mastery": "0%"
+    }
+  ],
+  "enrolledclasses": [
+    {
+      "id": 0,
+      "enrolled_class": "Grade_10_Science",
+      "school_name": "Adhyayan School",
+      "subject": "Science",
+      "class_type": 1,
+      "class_start": "Jun 18, 2021",
+      "class_end": "Dec 31, 2022",
+      "total_incomplete_video": 0,
+      "total_video_completed": 0,
+      "average_mastery": "0.00%"
+    },
+    {
+      "id": 1,
+      "enrolled_class": "Grade_10_Maths",
+      "school_name": "Adhyayan School",
+      "subject": "Maths",
+      "class_type": 1,
+      "class_start": "Jun 18, 2021",
+      "class_end": "Dec 31, 2022",
+      "total_incomplete_video": 0,
+      "total_video_completed": 0,
+      "average_mastery": "0.00%"
+    },
+    {
+      "id": 2,
+      "enrolled_class": "Grade_10_English",
+      "school_name": "Adhyayan School",
+      "subject": "English",
+      "class_type": 1,
+      "class_start": "Jun 18, 2021",
+      "class_end": "Dec 31, 2022",
+      "total_incomplete_video": 0,
+      "total_video_completed": 0,
+      "average_mastery": "0.00%"
+    },
+    {
+      "id": 3,
+      "enrolled_class": "Grade_10_Economics",
+      "school_name": "Adhyayan School",
+      "subject": "Economics",
+      "class_type": 1,
+      "class_start": "Jun 18, 2021",
+      "class_end": "Dec 31, 2022",
+      "total_incomplete_video": 0,
+      "total_video_completed": 0,
+      "average_mastery": "0.00%"
+    }
+  ]
+}

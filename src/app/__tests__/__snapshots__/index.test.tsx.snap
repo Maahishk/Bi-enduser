@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render and match the snapshot 1`] = `
+<BrowserRouter>
+  <Helmet
+    defaultTitle="BI Dashboard"
+    defer={true}
+    encodeSpecialCharacters={true}
+    htmlAttributes={
+      Object {
+        "lang": undefined,
+      }
+    }
+    titleTemplate="%s - BI Dashboard"
+  >
+    <meta
+      content=""
+      name="description"
+    />
+  </Helmet>
+  <Router />
+  <Memo(l) />
+</BrowserRouter>
+`;
